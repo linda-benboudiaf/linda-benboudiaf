@@ -16,8 +16,8 @@ Based in Paris, France. Passionate about machine learning, data analysis, and we
   - Developed technical stacks and data pipelines for SaaS/CRM products.
 - **R&D Data Engineer - Data Science**, Be Sport
   - Worked on sentiment analysis, big data, optimization, and deep learning projects.
-- **R&D Data Engineer - Data Science**, Airship - Accengage
-  - Back End developper for marketing technology and push notification CRM solution
+- **Back-End Developper**, Airship - Accengage
+  - developped plugin into aleady exiting solution for marketing technology and push notification CRM solution.
 - **Web Developer & Web Marketing**, ANAF - Association Nationale des Apprentis de France
   - Focused on SEO, user behavior analysis, and content personalization.
 
