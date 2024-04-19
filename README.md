@@ -12,7 +12,7 @@ Based in Paris, France. Passionate about machine learning, data analysis, and we
 - **DUT Informatique Licence informatique**, IUT d'Orsay, Université Paris-Saclay
 
 ## Experience
-- **Technical Leader**, Profilr - Hiring For Good (Current)
+- **Technical Leader**, Profilr - Hiring For Good. 
   - Developed technical stacks and data pipelines for SaaS/CRM products.
 - **R&D Data Engineer - Data Science**, Paris
   - Worked on sentiment analysis, big data, optimization, and deep learning projects.
