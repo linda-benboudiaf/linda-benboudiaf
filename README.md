@@ -29,7 +29,7 @@ Based in Paris, France. Passionate about machine learning, data analysis, and we
 
 ## Projects
 - **BeSport API**: Developed API, ensured data quality, and performed data crawling.
-- **Profilr CRM Product**: Enginner Founder of SaaS/CRM product focusing on technical stack and data pipeline development.
+- **Profilr CRM Product**: Founding Engineer of SaaS/CRM product focusing on technical stack and data pipeline development.
 
 ## Interests
 - Reading, cinema, tennis, new technologies and language learning.
