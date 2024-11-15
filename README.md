@@ -1,7 +1,7 @@
 # Linda Benboudiaf
 
 ## About Me
-Based in Paris, France. Passionate about machine learning, data analysis, and web development. Currently working as a Freelancer, where I focus on creating technical stacks, data pipelines, and SaaS/CRM products.
+Based in Paris, France. Passionate about machine learning, data analysis and text/images treatment. Currently working as a Freelancer, where I focus on creating technical stacks, data pipelines, and SaaS/CRM products.
 
 📧 lbenboudiaf@gmail.com ```OR``` lbenboudiaf@proton.me
 📞 +33 7 81 07 67 43
@@ -30,9 +30,10 @@ Based in Paris, France. Passionate about machine learning, data analysis, and we
 ## Projects
 - **Profilr CRM Product**: Founding Engineer of SaaS/CRM product focusing on technical stack and data pipeline development.
 - **BeSport API**: Developed API, ensured data quality, and performed data crawling.
+- **Datachok**: Image recognition and segementation in order to detect face shapes on pictures and videos. 
 
 ## Interests
-- Reading, cinema, tennis, new technologies and language learning.
+- Reading, cinema, piano, new technologies and language learning.
 
 ## Languages
 - Arabic
