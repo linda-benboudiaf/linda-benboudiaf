@@ -5,13 +5,15 @@ Based in Paris, France. Passionate about machine learning, data analysis and tex
 
 📧 lbenboudiaf@gmail.com ```OR``` lbenboudiaf@proton.me
 📞 +33 7 81 07 67 43
-[Datachok](https://medium.com/@lbenboudiaf)
+[Datachok](https://www.datachoke.studio/)
 
 ## Education
 - **Master Vision et Machine Intelligente**, Université Pierre et Marie Curie, UFR Math-Informatique Paris VI, Paris, France
 - **DUT Informatique Licence informatique**, IUT d'Orsay, Université Paris-Saclay
 
 ## Experience
+- **Data Engineer**, INA — Institue National l'Audiovisuel
+- **Data Engineer**, Beta.Gouv.
 - **Technical Leader**, Profilr - Hiring For Good. 
   - Developed technical stacks and data pipelines for SaaS/CRM products.
 - **R&D Data Engineer - Data Science**, Be Sport
@@ -33,7 +35,7 @@ Based in Paris, France. Passionate about machine learning, data analysis and tex
 - **Datachok**: Image recognition and segementation in order to detect face shapes on pictures and videos. 
 
 ## Interests
-- Reading, cinema, piano, new technologies and language learning.
+- Reading, cinema, new technologies and language learning.
 
 ## Languages
 - Arabic
